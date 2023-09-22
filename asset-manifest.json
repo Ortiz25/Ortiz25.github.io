@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12da8df4.css",
+    "main.js": "/static/js/main.51fe3ebb.js",
+    "static/media/hunt.mp4": "/static/media/hunt.c7727436300c22357abe.mp4",
+    "static/media/background.png": "/static/media/background.4cf8fe165f59f614fc99.png",
+    "index.html": "/index.html",
+    "main.12da8df4.css.map": "/static/css/main.12da8df4.css.map",
+    "main.51fe3ebb.js.map": "/static/js/main.51fe3ebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12da8df4.css",
+    "static/js/main.51fe3ebb.js"
+  ]
+}
